@@ -66,8 +66,6 @@ https://solacehaven.substack.com/
 
 Explore the complete archive for essays on psychology, neuroscience, emotional well-being, and personal growth.
 
-Check out my recent post: <div class="substack-post-embed"><p lang="en-gb">Emotional Numbness by Solace Haven</p><p></p><a data-post-link href="https://solacehaven.substack.com/p/emotional-numbness">Read on Substack</a></div><script async src="https://substack.com/embedjs/embed.js" charset="utf-8"></script>
-
 ---
 
 ## Closing Thoughts
