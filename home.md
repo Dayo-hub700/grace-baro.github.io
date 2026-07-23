@@ -137,7 +137,7 @@ A data-driven exploration of Marvel's cinematic success using interactive visual
 
 </div>
 
-<a href="/Portfolio/projects/" class="btn btn--primary">
+<a href="projects.md" class="btn btn--primary">
 
 View Case Study →
 
