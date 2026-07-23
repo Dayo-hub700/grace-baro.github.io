@@ -3,6 +3,10 @@
 
 @import "minimal-mistakes";
 
+/* ===========================
+   Global Styles
+=========================== */
+
 body {
   background: #ffffff;
   color: #222;
@@ -16,16 +20,34 @@ a:hover {
   color: #C85CC4;
 }
 
+/* ===========================
+   Typography
+=========================== */
+
 .page__title {
   color: #DA70D6;
+  font-size: 3rem;
+  font-weight: 700;
+}
+
+.page__content {
+  font-size: 18px;
+  line-height: 1.8;
 }
 
 .page__content h2 {
   border-left: 4px solid #DA70D6;
   padding-left: 12px;
+  margin-top: 4rem;
 }
 
-/* Buttons */
+.archive__subtitle {
+  border-bottom: none;
+}
+
+/* ===========================
+   Buttons
+=========================== */
 
 .btn--primary {
   background-color: #DA70D6 !important;
@@ -33,7 +55,7 @@ a:hover {
 }
 
 .btn--primary:hover {
-  background-color: #c85bc4 !important;
+  background-color: #C85CC4 !important;
 }
 
 .btn--inverse {
@@ -43,5 +65,23 @@ a:hover {
 
 .btn--inverse:hover {
   background-color: #DA70D6 !important;
-  color: white !important;
+  color: #fff !important;
+}
+
+/* ===========================
+   Navigation
+=========================== */
+
+.greedy-nav a:hover {
+  color: #DA70D6 !important;
+}
+
+/* ===========================
+   Dividers
+=========================== */
+
+hr {
+  margin: 3rem 0;
+  border: none;
+  border-top: 2px solid #F3E2F3;
 }
