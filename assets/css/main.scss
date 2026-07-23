@@ -24,3 +24,24 @@ a:hover {
   border-left: 4px solid #DA70D6;
   padding-left: 12px;
 }
+
+/* Buttons */
+
+.btn--primary {
+  background-color: #DA70D6 !important;
+  border-color: #DA70D6 !important;
+}
+
+.btn--primary:hover {
+  background-color: #c85bc4 !important;
+}
+
+.btn--inverse {
+  border: 2px solid #DA70D6 !important;
+  color: #DA70D6 !important;
+}
+
+.btn--inverse:hover {
+  background-color: #DA70D6 !important;
+  color: white !important;
+}
