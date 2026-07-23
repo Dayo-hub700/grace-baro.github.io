@@ -35,13 +35,28 @@ Curiosity is what led me to data science. Empathy is what led me to psychology. 
 
 ## Featured Project
 
-### 🎬 The Marvel Multiverse
+<div class="project-card">
 
-A data-driven exploration into the relationship between production budgets, audience ratings, cast popularity, and financial success across Marvel productions.
+<h3>🎬 The Marvel Multiverse</h3>
 
-➡️ **Python • Pandas • Plotly • Seaborn**
+<p>
+A data-driven exploration of Marvel's cinematic success using exploratory data analysis, interactive visualizations, and statistical relationships.
+</p>
 
-[View Project →](/Portfolio/projects/)
+<div class="tech-stack">
+
+<span>Python</span>
+<span>Pandas</span>
+<span>Plotly</span>
+<span>Seaborn</span>
+
+</div>
+
+<a href="/Portfolio/projects/" class="btn btn--primary">
+View Project →
+</a>
+
+</div>
 
 ---
 
