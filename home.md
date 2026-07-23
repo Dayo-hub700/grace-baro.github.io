@@ -27,7 +27,7 @@ As a Computer Science student with a growing interest in **psychology** and **ne
 
 <div class="quote-card">
 
-*"Curiosity is what led me to data science. Empathy is what led me to psychology. Writing became the bridge between them."*
+Curiosity is what led me to data science. Empathy is what led me to psychology. Writing became the bridge between them.
 
 </div>
 
