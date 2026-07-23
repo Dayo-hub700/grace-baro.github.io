@@ -1,3 +1,9 @@
+---
+layout: single
+title: Projects
+permalink: /projects/
+---
+
 # The Marvel Multiverse: A Data-Driven Analysis of Cinematic Success
 
 **What makes a Marvel movie or series successful?**  
