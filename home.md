@@ -32,6 +32,86 @@ Curiosity is what led me to data science. Empathy is what led me to psychology. 
 </div>
 
 ---
+<div class="why-grid">
+
+<div>
+
+## Why Data Science?
+
+I've always been fascinated by **patterns**.
+
+Whether I'm observing human behaviour, exploring psychology, or analysing datasets, I'm driven by curiosity.
+
+Data science allows me to combine analytical thinking with storytelling to uncover insights that matter.
+
+</div>
+
+<div class="why-grid">
+
+<div>
+
+## Where Curiosity Meets Analysis
+
+I've always been fascinated by **patterns**.
+
+Whether I'm observing human behaviour, exploring psychology, or analysing datasets, I'm driven by curiosity.
+
+Data science allows me to combine analytical thinking with storytelling to uncover insights that matter.
+
+</div>
+
+<div>
+
+### Core Strengths
+
+<div class="skill-card">📊 Exploratory Data Analysis</div>
+
+<div class="skill-card">🐍 Python & Pandas</div>
+
+<div class="skill-card">📈 Interactive Visualisation</div>
+
+<div class="skill-card">🗄 SQL</div>
+
+<div class="skill-card">🧠 Research & Critical Thinking</div>
+
+<div class="skill-card">✍ Technical Writing</div>
+
+</div>
+
+</div>
+---
+
+## By The Numbers
+
+<div class="stats-grid">
+
+<div class="stat">
+
+<h2>2+</h2>
+
+<p>Data Science Projects</p>
+
+</div>
+
+<div class="stat">
+
+<h2>10+</h2>
+
+<p>Published Essays</p>
+
+</div>
+
+<div class="stat">
+
+<h2>5+</h2>
+
+<p>Technologies Used</p>
+
+</div>
+
+</div>
+
+---
 
 ## Featured Project
 
@@ -70,6 +150,6 @@ Thoughts on psychology, neuroscience, emotional resilience, and the stories we t
 
 ---
 
-## Technical Toolkit
+## My Toolbox
 
 🐍 Python • 📊 Pandas • 📈 Plotly • 📉 Matplotlib • 🎨 Seaborn • 🗄 SQL
