@@ -115,29 +115,37 @@ Data science allows me to combine analytical thinking with storytelling to uncov
 
 ## Featured Project
 
+<div class="projects-grid">
+
 <div class="project-card">
 
 <h3>🎬 The Marvel Multiverse</h3>
 
 <p>
-A data-driven exploration of Marvel's cinematic success using exploratory data analysis, interactive visualizations, and statistical relationships.
+A data-driven exploration of Marvel's cinematic success using interactive visualisations and exploratory data analysis.
 </p>
 
 <div class="tech-stack">
 
 <span>Python</span>
+
 <span>Pandas</span>
+
 <span>Plotly</span>
+
 <span>Seaborn</span>
 
 </div>
 
 <a href="/Portfolio/projects/" class="btn btn--primary">
-View Project →
+
+View Case Study →
+
 </a>
 
 </div>
 
+</div>
 ---
 
 ## Latest Writing
