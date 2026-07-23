@@ -1,3 +1,9 @@
+---
+layout: single
+title: Projects
+permalink: /projects/
+---
+
 # Haven Letters
 
 **Published by:** Solace Haven  
