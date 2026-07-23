@@ -24,6 +24,13 @@ As a Computer Science student with a growing interest in **psychology** and **ne
 
 </div>
 
+
+<div class="quote-card">
+
+*"Every dataset tells a story. My goal is to uncover it—and communicate it clearly."*
+
+</div>
+
 ---
 
 ## Featured Project
