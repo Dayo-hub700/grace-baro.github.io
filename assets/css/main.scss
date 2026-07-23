@@ -3,34 +3,30 @@
 
 @import "minimal-mistakes";
 
-/* Your CSS below */
+/* Brand Colors */
 
-.page__title{
-    color:#DA70D6;
+$primary-color: #DA70D6;
+
+/* Typography */
+
+body {
+  background: #ffffff;
+  color: #222;
 }
 
-a{
-    color:#DA70D6;
+a {
+  color: #DA70D6;
 }
 
-a:hover{
-    color:#C85CC4;
+a:hover {
+  color: #C85CC4;
 }
 
-body{
-    background:#fff;
-    color:#222;
+.page__title {
+  color: #DA70D6;
 }
 
-.page__content h2{
-    border-left:5px solid #DA70D6;
-    padding-left:15px;
-}
-
-.btn{
-    background:#DA70D6;
-}
-
-.btn:hover{
-    background:#C85CC4;
+.page__content h2 {
+  border-left: 4px solid #DA70D6;
+  padding-left: 12px;
 }
