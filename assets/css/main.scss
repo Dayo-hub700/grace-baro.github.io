@@ -435,3 +435,61 @@ padding:20px;
 border-radius:10px;
 
 }
+
+/* ===========================
+   CUSTOM FOOTER
+=========================== */
+
+.site-footer-custom{
+
+text-align:center;
+
+padding:50px 20px;
+
+color:#666;
+
+}
+
+.site-footer-custom h3{
+
+color:#DA70D6;
+
+margin-bottom:8px;
+
+}
+
+.site-footer-custom a{
+
+margin:0 10px;
+
+font-weight:600;
+
+}
+
+.site-footer-custom p:last-child{
+
+font-size:.9rem;
+
+color:#999;
+
+}
+
+.greedy-nav{
+
+box-shadow:0 2px 12px rgba(0,0,0,.05);
+
+}
+
+.greedy-nav a{
+
+transition:.3s;
+
+font-weight:600;
+
+}
+
+.greedy-nav a:hover{
+
+transform:translateY(-2px);
+
+}
