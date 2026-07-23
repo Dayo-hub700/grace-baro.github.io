@@ -1,0 +1,36 @@
+---
+---
+
+@import "minimal-mistakes";
+
+/* Your CSS below */
+
+.page__title{
+    color:#DA70D6;
+}
+
+a{
+    color:#DA70D6;
+}
+
+a:hover{
+    color:#C85CC4;
+}
+
+body{
+    background:#fff;
+    color:#222;
+}
+
+.page__content h2{
+    border-left:5px solid #DA70D6;
+    padding-left:15px;
+}
+
+.btn{
+    background:#DA70D6;
+}
+
+.btn:hover{
+    background:#C85CC4;
+}
