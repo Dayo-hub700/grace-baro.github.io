@@ -35,11 +35,11 @@ Python • Pandas • Matplotlib • Seaborn
 
 ### Budget vs Revenue
 
-![Budget vs Revenue](../assets/images/budget-revenue.png)
+![Budget vs Revenue](../assets/image-1.png)
 
 ### Correlation Heatmap
 
-![Correlation Heatmap](../assets/images/correlation.png)
+![Correlation Heatmap](../assets/image-4.png)
 
 ### Key Findings
 
